@@ -130,9 +130,9 @@ Currently at **EY**, I lead a squad of 6 engineers building enterprise platforms
 
 | Certification | Issuer | Year |
 |---|---|---|
-| AZ-204: Developing Solutions for Microsoft Azure | Microsoft | 2025 |
-| AZ-900: Microsoft Azure Fundamentals | Microsoft | 2025 |
-| MLOps Fundamentals with Azure | Microsoft Learn | 2026 |
+| AZ-204: Developing Solutions for Microsoft Azure | Udemy | 2025 |
+| AZ-900: Microsoft Azure Fundamentals | Udemy | 2025 |
+| MLOps Fundamentals with Azure | Udemy | 2026 |
 | Introduction to Agentic Systems Bootcamp | Skillsoft | 2026 |
 | Azure Machine Learning & MLOps | Udemy | 2025 |
 | ChatGPT & Generative AI — The Complete Guide | Udemy | 2026 |
